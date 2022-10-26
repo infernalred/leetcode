@@ -1,6 +1,9 @@
-namespace Roman_to_Integer.Tests;
+﻿using Leetcode;
+using Xunit;
 
-public class UnitTest1
+namespace LeetCode.Tests;
+
+public class RomanToIntegerTests
 {
     [Fact]
     public void Test1()

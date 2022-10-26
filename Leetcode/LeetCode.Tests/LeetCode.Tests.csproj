@@ -2,7 +2,6 @@
 
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
-        <RootNamespace>Roman_to_Integer.Tests</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
 
@@ -23,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Roman to Integer\Roman to Integer.csproj" />
+      <ProjectReference Include="..\Leetcode\Leetcode.csproj" />
     </ItemGroup>
 
 </Project>
