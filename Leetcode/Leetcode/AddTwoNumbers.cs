@@ -1,4 +1,6 @@
-﻿namespace Leetcode;
+﻿using Leetcode.Models;
+
+namespace Leetcode;
 
 public class AddTwoNumbers
 {
